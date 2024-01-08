@@ -4,5 +4,16 @@ unique_ids:
   modules: {}
   server_modules: {}
   assets:
-    standard-page.html: MTWCBZKO26FV7KIGL4TVQR737DRUW45M
+    html/ui-alerts.html: MYFL3T7MBS2LQ6KBMGMTY47SUL2H5U4U
+    html/index.html: XMWWWTIVHTE7UHVDTGUSZH5D7JBIQITL
     theme.css: CWBCWEWDNQDWRTFCS532ASG67FTACDOV
+    html/authentication-login.html: WL3WCRVMZWW46LKKQXOBYTWRCNDA5B2K
+    html/ui-card.html: 4OTGURO6RMOVHV4PMXZWANL2GFL4ZU7K
+    assets/.gitkeep: '1704702178730312145909195.6129'
+    standard-page.html: MTWCBZKO26FV7KIGL4TVQR737DRUW45M
+    html/icon-tabler.html: MYDN4AX22GDRL6BVOELG6X4DWBLVAKRG
+    html/authentication-register.html: GEPICYY5ALTGGVMFYPVDN6PH5DJMTTSD
+    html/ui-buttons.html: VVDYXFRI4WJ76C6RUJLV5FNB36VLAEVQ
+    html/ui-forms.html: AIC3YWUKPOJX56632NVFN2AQGM42EZHQ
+    html/ui-typography.html: 6RPF7EW2VITY7KNICOQ7UBZO27UR7YQF
+    html/sample-page.html: DR5WIFCVWRDYGRLCDIFQPNYDJFUU7M7A
