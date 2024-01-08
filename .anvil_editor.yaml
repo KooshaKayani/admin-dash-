@@ -5,15 +5,48 @@ unique_ids:
   server_modules: {}
   assets:
     html/ui-alerts.html: MYFL3T7MBS2LQ6KBMGMTY47SUL2H5U4U
+    assets/scss/variables/_theme-variables.scss: YZVIDTAQOCPO7MNJX36Y4HRX3X2CMV3B
+    assets/scss/prepros.config: 3APAXK47OMZH5Y2AGRNMSGU3CVHLD53Z
     html/index.html: XMWWWTIVHTE7UHVDTGUSZH5D7JBIQITL
     theme.css: CWBCWEWDNQDWRTFCS532ASG67FTACDOV
+    assets/scss/component/_reboot.scss: SNLWKOPFXCDZRP52244TC2LTAAWQCFZQ
+    assets/images/products/s4.jpg: 3FPW3PEKWS5WTHEW2EYA4W4NW5N2OJAI
+    assets/scss/layouts/_layouts.scss: 5Q2ZFZWCHGFJ53KWFEODPLJ5IZAI6W2E
+    assets/scss/component/_card.scss: D6AFV5XFCA4RIYSLROVJUR3HPCIYSEDY
+    assets/images/products/s11.jpg: PWEBKNPPJPU7YAFUP3C3IZDNJJPVYQCH
     html/authentication-login.html: WL3WCRVMZWW46LKKQXOBYTWRCNDA5B2K
     html/ui-card.html: 4OTGURO6RMOVHV4PMXZWANL2GFL4ZU7K
+    assets/images/logos/favicon.png: ZDUEUGJBZ6WO2G63NKKUU52RIA55W3SP
     assets/.gitkeep: '1704702178730312145909195.6129'
     standard-page.html: MTWCBZKO26FV7KIGL4TVQR737DRUW45M
+    assets/js/dashboard.js: J7AAALIOK5TYNPT7XIO6NPGBH6D5RUAM
+    assets/js/app.min.js: IPHWHHURKAQSY23KBAPGFGLOASJ24R4M
     html/icon-tabler.html: MYDN4AX22GDRL6BVOELG6X4DWBLVAKRG
+    assets/scss/layouts/_sidebar.scss: XXYD6FYKBZQSW5XLXMGACLPEGKNYPY3B
+    assets/scss/utilities/_icon-size.scss: W34QRIXTUN6BAXNOOOPZTNYVM37XMYSP
     html/authentication-register.html: GEPICYY5ALTGGVMFYPVDN6PH5DJMTTSD
+    assets/images/backgrounds/rocket.png: NAL6OHR2UMEEDF4ZBSKM4ZBF7PXF57MM
+    assets/scss/pages/_dashboard1.scss: W7XDYWF46H7DI5PBOIH2CJA47IE66NJV
+    assets/css/icons/tabler-icons/fonts/tabler-icons.woff: CLK72YFGQEY46JHSGRASTQARRZBFQBQA
+    assets/images/profile/user-1.jpg: FPQKL2UA7HN4CCWETK4NKXJ5SP6KP4OB
+    assets/scss/variables/_variables.scss: HL2XNCCPDSIDMSNB6GJM4W5VEPHUJUZW
+    assets/scss/styles.scss: 276J7EY7ID3KVVEOFZDT2BIJ23QKW2UB
+    assets/images/products/s1.jpg: FDAVEN4IZPOVYOAYFOBNPRPKM5XGEY7I
+    assets/js/sidebarmenu.js: WTSUJDEVODEZPUY6QBTHLT25UJSTVSSX
     html/ui-buttons.html: VVDYXFRI4WJ76C6RUJLV5FNB36VLAEVQ
     html/ui-forms.html: AIC3YWUKPOJX56632NVFN2AQGM42EZHQ
+    assets/libs/.gitkeep: '1704702351030811041249374.1339'
+    assets/css/styles.min.css: GD3AHOQQCEAQCYEE5F7BKGVQ5AHDLUWZ
+    assets/css/icons/tabler-icons/fonts/tabler-icons.ttf: DH6NE74IR23GYEFY6NGQOOM7F3JNGD6H
+    assets/css/icons/tabler-icons/tabler-icons.css: M7ABDUQ6P56KMJPKM5KAROERLTWDRP6W
+    assets/images/products/s7.jpg: VV7FG2X5YULOOIDODXQ2AVQH4PGI35ZX
+    assets/css/icons/tabler-icons/fonts/tabler-icons.woff2: VXHZPTU4ZKVI2M3J4XRDE4JCK76XXMUT
     html/ui-typography.html: 6RPF7EW2VITY7KNICOQ7UBZO27UR7YQF
+    assets/css/styles.css: PRXAOTG7T6WYJUF76EMRUQKRCGHHTZYW
+    assets/images/products/s5.jpg: OELPQVVOCZLIK5IV3CKBW4CKS4INKPM4
+    assets/css/icons/tabler-icons/fonts/tabler-icons.svg: ILEFJHLKDJQ7CYY2XMWI62L6SFZIX7Y4
+    assets/scss/layouts/_header.scss: KGPQUXTWHWTECW6E4WNCRSVJHN7B5GU3
+    assets/css/icons/tabler-icons/fonts/tabler-icons.eot: WPPKQMYAFNH7P2NFLGRQ7QXIHK7STNDX
+    assets/images/logos/dark-logo.svg: XE63ZGWBPX4D25HV3ZTXKGQPE2FTAXFP
+    assets/scss/utilities/_background.scss: KI7DHNFCIAGEVVISH2PGGXXCLTAREV3Z
     html/sample-page.html: DR5WIFCVWRDYGRLCDIFQPNYDJFUU7M7A
